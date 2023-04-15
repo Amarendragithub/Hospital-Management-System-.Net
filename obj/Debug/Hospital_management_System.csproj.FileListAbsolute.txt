@@ -1,0 +1,44 @@
+F:\asp.net\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.dll.config
+F:\asp.net\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.dll
+F:\asp.net\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.pdb
+F:\asp.net\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.csproj.AssemblyReference.cache
+F:\asp.net\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.csproj.CoreCompileInputs.cache
+F:\asp.net\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.dll
+F:\asp.net\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.pdb
+D:\kashipara.com_hospital-management-system\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.dll.config
+D:\kashipara.com_hospital-management-system\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.dll
+D:\kashipara.com_hospital-management-system\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.pdb
+D:\kashipara.com_hospital-management-system\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.csprojAssemblyReference.cache
+D:\kashipara.com_hospital-management-system\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.csproj.CoreCompileInputs.cache
+D:\kashipara.com_hospital-management-system\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.dll
+D:\kashipara.com_hospital-management-system\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.pdb
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.dll.config
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.dll
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\Hospital_management_System.pdb
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.csproj.AssemblyReference.cache
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.csproj.CoreCompileInputs.cache
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.dll
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.pdb
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\BouncyCastle.Crypto.dll
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\Google.Protobuf.dll
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\K4os.Compression.LZ4.dll
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\K4os.Compression.LZ4.Streams.dll
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\K4os.Hash.xxHash.dll
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\MySql.Data.dll
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\System.Buffers.dll
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\System.Memory.dll
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\System.Numerics.Vectors.dll
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\ZstdNet.dll
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\BouncyCastle.Crypto.xml
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\Google.Protobuf.pdb
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\Google.Protobuf.xml
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\K4os.Compression.LZ4.xml
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\K4os.Compression.LZ4.Streams.xml
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\K4os.Hash.xxHash.xml
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\MySql.Data.xml
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\System.Buffers.xml
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\System.Memory.xml
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\System.Numerics.Vectors.xml
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hospital_management_System (1)\Hospital_management_System\Hospital_management_System\obj\Debug\Hospital_management_System.csproj.CopyComplete
